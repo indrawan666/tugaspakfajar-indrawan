@@ -69,9 +69,15 @@ void main() {
 
 kesimpulan:
 List: Digunakan untuk menyimpan angka-angka dalam numbers.
+
 Aritmatika: Melibatkan penjumlahan, perkalian, rata-rata, dan penjumlahan kuadrat elemen dalam list.
+
 Percabangan: Memeriksa apakah angka tertentu ada dalam list.
+
 Perulangan: Mengiterasi elemen-elemen dalam list untuk operasi aritmatika dan pencetakan.
+
 Function: Mengelompokkan tugas-tugas spesifik dalam fungsi.
+
 Scope: Menentukan ruang lingkup variabel dalam fungsi.
+
 Closure: Fungsi yang menangkap variabel dari lingkup sekitarnya untuk operasi tertentu
